@@ -9,7 +9,7 @@ import { Colors } from '@/constants/Colors';
 import { useColorScheme } from '@/hooks/useColorScheme';
 
 /**
- * @returns disposicion Inicio, lista y Perfil
+ * @returns disposicion home, explore y profile
  */
 export default function TabLayout() {
   const colorScheme = useColorScheme();

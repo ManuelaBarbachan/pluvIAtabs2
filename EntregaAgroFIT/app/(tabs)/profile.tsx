@@ -9,9 +9,9 @@ import { IconSymbol } from "@/components/ui/IconSymbol";
 
 
 /**
- * Esta tab funcionaría como el perfil del usuario, en este caso se puede modificar el nombre que se muestra 
- * en pantalla al cambiar la variable userName.
- * Incluye una foto del usuario y un mensaje de bienvenida
+ * Esta tab funcionaría como el perfil del usuario,tiene mi nombre pero deberia poder modificar el nombre que se muestra 
+ * en pantalla al cambiar la variable 
+ *puse una foto y un mensaje de bienvenida
  * @returns La pantalla del perfil
  */
 export default function Profile() {
